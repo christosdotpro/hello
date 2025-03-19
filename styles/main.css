@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+:where([class^="ri-"])::before { 
+  content: "\f3c2"; 
+}
+
+.skill-bar { 
+  transition: width 0.5s ease-in-out; 
+}
+
+.case-study-card { 
+  transition: transform 0.3s ease; 
+}
+
+.case-study-card:hover { 
+  transform: translateY(-8px); 
+}
+
+html { 
+  scroll-behavior: smooth; 
+}
+
+body { 
+  font-family: 'Inter', sans-serif; 
+} 
