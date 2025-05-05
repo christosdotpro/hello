@@ -1,4 +1,4 @@
-# Sarah Anderson Portfolio
+# Portfolio
 
 A modern, responsive portfolio website for Sarah Anderson - Creative Director & UX Designer.
 
