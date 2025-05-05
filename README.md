@@ -35,4 +35,4 @@ The project uses:
 
 ## License
 
-© 2025 Sarah Anderson. All rights reserved.
+© 2025. All rights reserved.
